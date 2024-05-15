@@ -1,0 +1,8 @@
+Model Information:
+* title:	Animated Man01
+* source:	https://sketchfab.com/3d-models/animated-man01-08f58ca61ddf4ecbb40d021fb7347367
+* author:	bariacg (https://sketchfab.com/bariacg)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
