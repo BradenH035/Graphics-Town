@@ -3,7 +3,10 @@ This project is a model of south campus at the University of Wisconsin-Madison u
 Main file: gr-01-01.html
 
 Some Notable Features:
-- Union South, accompanied by the iconic colored chairs (with custom made shaders)
+- User Interface
+  - Can speed up movements in the world by using speed slider
+  - Can adjust camera angles to point at different objects and change camera type entirely
+- Union South, accompanied by the iconic colored patio chairs (with custom made shaders)
 - Discovery Building
 - New Computer Science Building
   - Construction vehicles included: Forklift, Crane, Backhoe, Excavator
